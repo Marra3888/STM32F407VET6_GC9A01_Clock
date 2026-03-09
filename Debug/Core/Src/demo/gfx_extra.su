@@ -1,0 +1,2 @@
+../Core/Src/demo/gfx_extra.c:51:6:dispcolor_DrawRoundRect	80	static
+../Core/Src/demo/gfx_extra.c:118:6:dispcolor_FillRoundRect	80	static

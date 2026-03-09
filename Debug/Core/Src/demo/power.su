@@ -1,0 +1,4 @@
+../Core/Src/demo/power.c:117:6:Power_Init	8	static
+../Core/Src/demo/power.c:145:6:Power_ResetView	0	static
+../Core/Src/demo/power.c:151:6:Power_OnPulse	0	static
+../Core/Src/demo/power.c:351:6:Power_Draw	432	dynamic,bounded

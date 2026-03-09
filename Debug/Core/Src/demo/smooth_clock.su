@@ -1,0 +1,3 @@
+../Core/Src/demo/smooth_clock.c:100:13:DrawStaticElements	72	static
+../Core/Src/demo/smooth_clock.c:208:6:SmoothClock_ResetView	24	static
+../Core/Src/demo/smooth_clock.c:224:6:SmoothClock_Draw	104	static

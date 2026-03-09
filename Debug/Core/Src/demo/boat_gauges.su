@@ -1,0 +1,5 @@
+../Core/Src/demo/boat_gauges.c:130:13:CalcTables	64	static
+../Core/Src/demo/boat_gauges.c:145:6:BoatGauges_Init	0	static
+../Core/Src/demo/boat_gauges.c:146:6:BoatGauges_ResetView	8	static
+../Core/Src/demo/boat_gauges.c:147:6:BoatGauges_OnK0	0	static
+../Core/Src/demo/boat_gauges.c:149:6:BoatGauges_Draw	64	static

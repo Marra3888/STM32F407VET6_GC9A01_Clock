@@ -1,0 +1,4 @@
+../Core/Src/demo/gif_mode.c:46:6:GIFDraw	8
+../Core/Src/demo/gif_mode.c:39:6:GifMode_Reset	1
+../Core/Src/demo/gif_mode.c:93:6:GifMode_Init	3
+../Core/Src/demo/gif_mode.c:104:6:GifMode_Draw	7

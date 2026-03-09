@@ -1,0 +1,2 @@
+../Core/Src/demo/gfx_extra.c:51:6:dispcolor_DrawRoundRect	15
+../Core/Src/demo/gfx_extra.c:118:6:dispcolor_FillRoundRect	10

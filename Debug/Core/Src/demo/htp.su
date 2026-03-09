@@ -1,0 +1,5 @@
+../Core/Src/demo/htp.c:66:13:DrawCenteredInBox	48	static
+../Core/Src/demo/htp.c:83:6:HTP_Init	4	static
+../Core/Src/demo/htp.c:92:6:HTP_ResetView	4	static
+../Core/Src/demo/htp.c:99:10:HTP_Read	0	static
+../Core/Src/demo/htp.c:118:6:HTP_Draw_Round	176	static

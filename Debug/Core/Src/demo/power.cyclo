@@ -1,0 +1,4 @@
+../Core/Src/demo/power.c:117:6:Power_Init	1
+../Core/Src/demo/power.c:145:6:Power_ResetView	1
+../Core/Src/demo/power.c:151:6:Power_OnPulse	1
+../Core/Src/demo/power.c:351:6:Power_Draw	38

@@ -1,0 +1,6 @@
+../Core/Src/demo/hvac.c:60:6:Hvac_Init	0	static
+../Core/Src/demo/hvac.c:69:18:Hvac_Get	0	static
+../Core/Src/demo/hvac.c:71:6:Hvac_OnK0	0	static
+../Core/Src/demo/hvac.c:78:6:Hvac_OnK1	0	static
+../Core/Src/demo/hvac.c:86:6:Hvac_OnCombo	0	static
+../Core/Src/demo/hvac.c:125:6:Hvac_Draw_Round	96	static

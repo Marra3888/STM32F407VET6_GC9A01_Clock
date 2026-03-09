@@ -1,0 +1,2 @@
+../Core/Src/demo/mono.c:65:6:Mono_ResetView	72	static
+../Core/Src/demo/mono.c:82:6:Mono_Draw	80	static

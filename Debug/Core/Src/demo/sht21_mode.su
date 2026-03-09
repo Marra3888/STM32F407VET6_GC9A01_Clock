@@ -1,0 +1,4 @@
+../Core/Src/demo/sht21_mode.c:81:13:Needle_Draw	40	static
+../Core/Src/demo/sht21_mode.c:106:13:Text_Draw	32	static
+../Core/Src/demo/sht21_mode.c:122:6:SHT21Mode_ResetView	56	static
+../Core/Src/demo/sht21_mode.c:148:6:SHT21Mode_Draw	8	static

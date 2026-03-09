@@ -1,0 +1,2 @@
+../Core/Src/demo/rtc_print_mode.c:23:6:RTCPrint_ResetView	1
+../Core/Src/demo/rtc_print_mode.c:32:6:RTCPrint_Draw	3

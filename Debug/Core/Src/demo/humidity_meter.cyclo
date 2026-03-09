@@ -1,0 +1,3 @@
+../Core/Src/demo/humidity_meter.c:137:13:HM_DrawNeedle	1
+../Core/Src/demo/humidity_meter.c:190:6:HumidityMeter_ResetView	8
+../Core/Src/demo/humidity_meter.c:221:6:HumidityMeter_Draw	4

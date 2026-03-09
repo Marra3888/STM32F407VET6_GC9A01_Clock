@@ -1,0 +1,4 @@
+../Core/Src/demo/clock.c:17:6:Clock_SetEdit	0	static
+../Core/Src/demo/clock.c:59:6:DrawClock	104	static
+../Core/Src/demo/clock.c:148:6:Clock5_Reset	8	static
+../Core/Src/demo/clock.c:199:6:DrawClock5	96	static

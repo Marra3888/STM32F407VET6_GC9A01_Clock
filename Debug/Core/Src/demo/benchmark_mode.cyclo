@@ -1,0 +1,2 @@
+../Core/Src/demo/benchmark_mode.c:237:6:Benchmark_ResetView	1
+../Core/Src/demo/benchmark_mode.c:248:9:Benchmark_Draw	35
