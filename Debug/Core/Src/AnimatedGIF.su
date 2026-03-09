@@ -1,0 +1,12 @@
+../Core/Src/AnimatedGIF.c:139:16:seekMem	0	static
+../Core/Src/AnimatedGIF.c:126:16:readMem	16	static
+../Core/Src/AnimatedGIF.c:161:12:GIFParseInfo	48	static
+../Core/Src/AnimatedGIF.c:335:12:GIFGetMoreData.isra	32	static
+../Core/Src/AnimatedGIF.c:436:13:GIFMakePels	96	static
+../Core/Src/AnimatedGIF.c:373:12:DecodeLZW.constprop	88	static
+../Core/Src/AnimatedGIF.c:47:6:GIF_begin	16	static
+../Core/Src/AnimatedGIF.c:57:5:GIF_openRAM	16	static
+../Core/Src/AnimatedGIF.c:71:6:GIF_close	0	static
+../Core/Src/AnimatedGIF.c:80:5:GIF_playFrame	16	static
+../Core/Src/AnimatedGIF.c:118:5:GIF_getCanvasWidth	0	static
+../Core/Src/AnimatedGIF.c:119:5:GIF_getCanvasHeight	0	static
