@@ -1,0 +1,15 @@
+../Core/Src/gc9a01a/gc9a01a.c:80:10:GC9A01A_GetWidth	0	static
+../Core/Src/gc9a01a/gc9a01a.c:81:10:GC9A01A_GetHeight	0	static
+../Core/Src/gc9a01a/gc9a01a.c:83:6:GC9A01A_SetBL	0	static
+../Core/Src/gc9a01a/gc9a01a.c:184:6:GC9A01A_DrawPixel	0	static
+../Core/Src/gc9a01a/gc9a01a.c:190:10:GC9A01A_GetPixel	0	static
+../Core/Src/gc9a01a/gc9a01a.c:197:6:GC9A01A_FillRect	48	static
+../Core/Src/gc9a01a/gc9a01a.c:346:6:GC9A01A_UpdateRect	72	static
+../Core/Src/gc9a01a/gc9a01a.c:330:6:GC9A01A_Update.part.0	64	static
+../Core/Src/gc9a01a/gc9a01a.c:330:6:GC9A01A_Update	0	static
+../Core/Src/gc9a01a/gc9a01a.c:93:6:GC9A01A_Init	56	static
+../Core/Src/gc9a01a/gc9a01a.c:306:13:tx_next_rect	24	static
+../Core/Src/gc9a01a/gc9a01a.c:290:13:tx_next_full	16	static
+../Core/Src/gc9a01a/gc9a01a.c:366:9:GC9A01A_IsBusy	0	static
+../Core/Src/gc9a01a/gc9a01a.c:372:6:GC9A01A_DrawPartXY	36	static
+../Core/Src/gc9a01a/gc9a01a.c:389:6:GC9A01A_DrawPartYX	0	static

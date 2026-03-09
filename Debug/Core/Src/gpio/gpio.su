@@ -1,0 +1,3 @@
+../Core/Src/gpio/gpio.c:16:6:gpio_SetGPIOmode_In	48	static
+../Core/Src/gpio/gpio.c:40:6:gpio_SetGPIOmode_Out	48	static
+../Core/Src/gpio/gpio.c:50:6:gpio_PortClockStart	24	static

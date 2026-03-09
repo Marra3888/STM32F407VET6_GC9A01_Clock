@@ -1,0 +1,7 @@
+../Core/Src/spim/spim.c:15:6:spim_init	0	static
+../Core/Src/spim/spim.c:22:6:HAL_SPI_TxCpltCallback	0	static
+../Core/Src/spim/spim.c:31:6:SPI_send	4	static
+../Core/Src/spim/spim.c:40:6:SPI_send_dma	8	static
+../Core/Src/spim/spim.c:54:6:SPI_recv	4	static
+../Core/Src/spim/spim.c:63:10:SPI_sendrecv	24	static
+../Core/Src/spim/spim.c:74:6:SPI_SendRecv_dma	16	static

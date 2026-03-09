@@ -1,0 +1,15 @@
+../Core/Src/gc9a01a/gc9a01a.c:80:10:GC9A01A_GetWidth	1
+../Core/Src/gc9a01a/gc9a01a.c:81:10:GC9A01A_GetHeight	1
+../Core/Src/gc9a01a/gc9a01a.c:83:6:GC9A01A_SetBL	1
+../Core/Src/gc9a01a/gc9a01a.c:184:6:GC9A01A_DrawPixel	4
+../Core/Src/gc9a01a/gc9a01a.c:190:10:GC9A01A_GetPixel	4
+../Core/Src/gc9a01a/gc9a01a.c:197:6:GC9A01A_FillRect	19
+../Core/Src/gc9a01a/gc9a01a.c:346:6:GC9A01A_UpdateRect	18
+../Core/Src/gc9a01a/gc9a01a.c:330:6:GC9A01A_Update.part.0	5
+../Core/Src/gc9a01a/gc9a01a.c:330:6:GC9A01A_Update	2
+../Core/Src/gc9a01a/gc9a01a.c:93:6:GC9A01A_Init	2
+../Core/Src/gc9a01a/gc9a01a.c:306:13:tx_next_rect	6
+../Core/Src/gc9a01a/gc9a01a.c:290:13:tx_next_full	5
+../Core/Src/gc9a01a/gc9a01a.c:366:9:GC9A01A_IsBusy	1
+../Core/Src/gc9a01a/gc9a01a.c:372:6:GC9A01A_DrawPartXY	20
+../Core/Src/gc9a01a/gc9a01a.c:389:6:GC9A01A_DrawPartYX	1
