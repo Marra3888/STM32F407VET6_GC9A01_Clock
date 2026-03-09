@@ -1,0 +1,3 @@
+../Core/Src/demo/three_orbiting_rotating_yinyang.c:57:13:yinyang_00_screen.constprop	1
+../Core/Src/demo/three_orbiting_rotating_yinyang.c:89:6:ThreeYY_ResetView	1
+../Core/Src/demo/three_orbiting_rotating_yinyang.c:102:6:ThreeYY_Draw	6

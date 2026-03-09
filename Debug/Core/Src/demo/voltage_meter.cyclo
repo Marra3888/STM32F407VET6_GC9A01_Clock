@@ -1,0 +1,4 @@
+../Core/Src/demo/voltage_meter.c:108:13:VoltageMeter_Needle	1
+../Core/Src/demo/voltage_meter.c:163:6:VoltageMeter_Init	1
+../Core/Src/demo/voltage_meter.c:168:6:VoltageMeter_ResetView	2
+../Core/Src/demo/voltage_meter.c:200:6:VoltageMeter_Draw	7

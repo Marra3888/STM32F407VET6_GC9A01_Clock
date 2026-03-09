@@ -1,0 +1,7 @@
+../Core/Src/demo/therm3.c:227:13:IndexTag_Draw.constprop	112	static
+../Core/Src/demo/therm3.c:180:13:RingMeter_Draw.constprop	120	static
+../Core/Src/demo/therm3.c:255:6:Therm3_Init	4	static
+../Core/Src/demo/therm3.c:267:6:Therm3_ResetView	4	static
+../Core/Src/demo/therm3.c:275:6:Therm3_OnK0	0	static
+../Core/Src/demo/therm3.c:283:6:Therm3_OnK1	0	static
+../Core/Src/demo/therm3.c:296:6:Therm3_Draw	72	static

@@ -1,0 +1,7 @@
+../Core/Src/demo/watchface.c:216:13:DrawDateCircle.constprop	3
+../Core/Src/demo/watchface.c:152:19:DrawNeedleTrapezoid.constprop	1
+../Core/Src/demo/watchface.c:129:13:DrawSubdialBase.constprop	2
+../Core/Src/demo/watchface.c:208:13:DrawMsCircle	2
+../Core/Src/demo/watchface.c:298:6:Watchface_Reset	1
+../Core/Src/demo/watchface.c:315:6:Watchface_Draw	10
+../Core/Src/demo/watchface.c:426:6:GetTimeRTC	1
